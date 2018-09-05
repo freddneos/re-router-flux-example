@@ -1,0 +1,1 @@
+#simple project in React-native to test and learn aboute redux routes
